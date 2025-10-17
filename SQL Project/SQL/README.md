@@ -30,7 +30,7 @@ Top Rock Artists: Identifying the top 10 artists who have written the most Rock 
 
 Track Length Analysis: Identifying songs that are longer than the average track length.
 
-<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 3. Advanced Questions (Unlisted in the provided SQL)
 
@@ -54,14 +54,14 @@ Artist: Artist details (artist_id, name).
 
 Genre: Genre classification (genre_id, name).
 
-<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 🛠️ Technologies Used
 SQL (Structured Query Language): The core language used for data retrieval and analysis.
 
 RDBMS (Relational Database Management System): The analysis is generic and can be run on most RDBMS systems (e.g., MySQL, PostgreSQL, SQLite, MS SQL Server).
 
-<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 🏃 Getting Started
 Prerequisites
