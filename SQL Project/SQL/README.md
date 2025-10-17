@@ -79,7 +79,7 @@ Navigate to the cloned directory and open music_analysis.sql.
 Execute Queries:
 Copy and paste the queries from music_analysis.sql into your preferred SQL client connected to the Music Store database and execute them sequentially to view the results for each business question.
 
-<------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<----------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 💡 Example Insight
 One of the key findings from the Easy set (Q4) helps identify the best location for a promotional event:
